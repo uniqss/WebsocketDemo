@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\WebsocketDemo.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{62A07F05-E73E-49BA-BBDD-A98F8A428CEA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\WebsocketDemo.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\WebsocketDemoEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{99DA027D-F542-49FC-9ED8-00FE21FD4177}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{CC417B47-205D-4BFA-A967-372F96ED8B09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\WebSocket">
+      <UniqueIdentifier>{CE2F103B-B564-40FE-B753-4A69A22EBB80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\WebSocket\Source">
+      <UniqueIdentifier>{EF66B5C2-5706-47EE-B327-BEA39F1BBE05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\WebSocket\Source\WebSocket">
+      <UniqueIdentifier>{EBA2D19B-5FAC-4C9B-BFD6-D8FD2AE423E1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\WebSocket\Source\WebSocket\WebSocket.Build.cs">
+      <Filter>Plugins\WebSocket\Source\WebSocket</Filter>
+    </None>
+    <None Include="..\..\Plugins\WebSocket\Source\WebSocket\WebSocket_UPL.xml">
+      <Filter>Plugins\WebSocket\Source\WebSocket</Filter>
+    </None>
+    <Filter Include="Plugins\WebSocket\Source\WebSocket\Private">
+      <UniqueIdentifier>{708D411B-DC35-4C77-9B74-CF4369927BCF}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\WebSocket\Source\WebSocket\Private\WebSocket.cpp">
+      <Filter>Plugins\WebSocket\Source\WebSocket\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\WebSocket\Source\WebSocket\Private\WebSocketBase.cpp">
+      <Filter>Plugins\WebSocket\Source\WebSocket\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\WebSocket\Source\WebSocket\Private\WebSocketBlueprintLibrary.cpp">
+      <Filter>Plugins\WebSocket\Source\WebSocket\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\WebSocket\Source\WebSocket\Private\WebSocketCA.cpp">
+      <Filter>Plugins\WebSocket\Source\WebSocket\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\WebSocket\Source\WebSocket\Private\WebSocketContext.cpp">
+      <Filter>Plugins\WebSocket\Source\WebSocket\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\WebSocket\Source\WebSocket\Private\WebSocketContext.h">
+      <Filter>Plugins\WebSocket\Source\WebSocket\Private</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\WebSocket\Source\WebSocket\Public">
+      <UniqueIdentifier>{36064EC0-A857-4DFF-923C-E4C4FB86E5EA}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\WebSocket\Source\WebSocket\Public\WebSocket.h">
+      <Filter>Plugins\WebSocket\Source\WebSocket\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\WebSocket\Source\WebSocket\Public\WebSocketBase.h">
+      <Filter>Plugins\WebSocket\Source\WebSocket\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\WebSocket\Source\WebSocket\Public\WebSocketBlueprintLibrary.h">
+      <Filter>Plugins\WebSocket\Source\WebSocket\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\WebSocket\WebSocket.uplugin">
+      <Filter>Plugins\WebSocket</Filter>
+    </None>
+    <Filter Include="Plugins\WebSocket\Resources">
+      <UniqueIdentifier>{959F29E4-5AC4-44CE-A922-60E72151001F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\WebSocket\Resources\Icon128.png">
+      <Filter>Plugins\WebSocket\Resources</Filter>
+    </None>
+    <Filter Include="Source\WebsocketDemo">
+      <UniqueIdentifier>{450D10DD-5C82-4702-A23F-D90087A1C88B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\WebsocketDemo\MyCppClass.cpp">
+      <Filter>Source\WebsocketDemo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\WebsocketDemo\MyCppClass.h">
+      <Filter>Source\WebsocketDemo</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\WebsocketDemo\MyGameInstance.cpp">
+      <Filter>Source\WebsocketDemo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\WebsocketDemo\MyGameInstance.h">
+      <Filter>Source\WebsocketDemo</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\WebsocketDemo\WebsocketDemo.Build.cs">
+      <Filter>Source\WebsocketDemo</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\WebsocketDemo\WebsocketDemo.cpp">
+      <Filter>Source\WebsocketDemo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\WebsocketDemo\WebsocketDemo.h">
+      <Filter>Source\WebsocketDemo</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

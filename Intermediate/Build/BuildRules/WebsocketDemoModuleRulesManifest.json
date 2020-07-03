@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"E:\\work\\WebsocketDemo\\Source\\WebsocketDemo\\WebsocketDemo.Build.cs",
+		"E:\\work\\WebsocketDemo\\Plugins\\WebSocket\\Source\\WebSocket\\WebSocket.Build.cs",
+		"E:\\work\\WebsocketDemo\\Source\\WebsocketDemo.Target.cs",
+		"E:\\work\\WebsocketDemo\\Source\\WebsocketDemoEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.1"
+}

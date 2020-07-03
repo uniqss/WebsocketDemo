@@ -1,0 +1,12 @@
+﻿  Building WebsocketDemoEditor and ShaderCompileWorker...
+  Using Visual Studio 2019 14.26.28806 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Distributing 1 action to XGE
+  --------------------Project: Default-------------------------------------------
+  ** For WebsocketDemoEditor-Win64-Development **
+  WebsocketDemoEditor.target (0:00.18 at +0:00)
+  ---------------------- Done ----------------------
+  
+      Rebuild All: 1 succeeded, 0 failed, 0 skipped
+  
+  Total time in XGE executor: 0.52 seconds
+  Total execution time: 1.58 seconds

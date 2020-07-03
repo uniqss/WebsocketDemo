@@ -1,0 +1,2 @@
+E:\work\WebsocketDemo\Intermediate\Build\Win64\UE4Editor\Development\WebsocketDemo\Definitions.WebsocketDemo.h
+E:\work\WebsocketDemo\Source\WebsocketDemo\WebsocketDemo.h

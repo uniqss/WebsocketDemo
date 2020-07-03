@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "WebsocketDemo",
+			"Path": "E:\\work\\WebsocketDemo\\Source\\WebsocketDemo.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "WebsocketDemoEditor",
+			"Path": "E:\\work\\WebsocketDemo\\Source\\WebsocketDemoEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
